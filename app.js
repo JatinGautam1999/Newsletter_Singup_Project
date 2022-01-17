@@ -64,11 +64,3 @@ app.post("/failure" , function (req , res){
 app.listen(process.env.PORT || 3000 , function(){
   console.log("Server has started at port 3000");
 });
-
-
-
-//API Key
-//a2dd40c876c08a9d48f6857dc378e8ed-us6
-
-//LIST ID
-//c08500815c
